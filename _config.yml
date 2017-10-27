@@ -1,0 +1,16 @@
+# Site settings
+title: 太玄的世界
+name: TaiXuan # your name
+email: x913724685@live.com # your email address
+description: >
+    海中孤舰，黑白之中——此时，此地，此身，我。
+# this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+github_username: TaiXuan91 # your Github username
+
+skillstree: true # turn on or off the skills tree in about page
+
+# Build settings
+permalink: none
+markdown: kramdown
